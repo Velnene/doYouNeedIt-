@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  min-height: 109px;
+  justify-content: space-between;
+  padding: 0 49px 0 51px;
+  margin-top: 92px;
+  margin-bottom: 92px;
+}
+
+.header__logo {
+  padding-right: 145px;
+}

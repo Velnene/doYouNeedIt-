@@ -1,0 +1,26 @@
+.info {
+  width: 240px;
+  padding-top: 5px;
+}
+
+.info__list {
+  list-style: none;
+}
+
+.info__link {
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24.3px;
+  text-decoration: none;
+  border-bottom: 1px solid black;
+  color: black;
+}
+
+.info__address {
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24.3px;
+}

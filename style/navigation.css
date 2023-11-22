@@ -1,0 +1,27 @@
+.navigation {
+  padding-top: 43px;
+}
+
+.navigation__list {
+  display: flex;
+  gap: 32px;
+}
+
+.navigation__link {
+  text-decoration: none;
+  color: black;
+  border-bottom: 1px solid black;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.navigation__link_active {
+  border-bottom: none;
+  list-style: none;
+}
+
+.navigation__list-item_active {
+  list-style: none;
+}

@@ -1,0 +1,14 @@
+/* Шрифты */
+@import url('../fonts/fonts.css');
+
+/* Файл для обнуления браузерских значений */
+@import url('./normalize.css');
+
+/* Стили header */
+@import url('./header.css');
+
+/* Стили навигации */
+@import url('./navigation.css');
+
+/**/
+@import url('./info.css');
