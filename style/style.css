@@ -12,3 +12,9 @@
 
 /**/
 @import url('./info.css');
+
+/* cover */
+@import url('./cover.css');
+
+/**/
+@import url('./overlay.css');
