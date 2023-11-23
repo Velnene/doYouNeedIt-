@@ -1,0 +1,42 @@
+.lots {
+  padding: 0 50px;
+  margin-top: 180px;
+  margin-bottom: 182px;
+}
+
+.lots__heading {
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  margin: 0 0 0 40px;
+}
+
+.lots__card-list {
+  display: flex;
+  column-gap: 25px;
+  flex-grow: 1;
+  margin: 27px 0 30px;
+  list-style: none;
+}
+
+.lots__card-list-item {
+  height: 450px;
+  width: 430px;
+  padding: 50px 40px;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.lots__look-more-link {
+  border: none;
+  border-bottom: 1px solid black;
+  padding: 0;
+  margin-left: 40px;
+  background: none;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
