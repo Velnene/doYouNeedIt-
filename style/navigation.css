@@ -2,9 +2,20 @@
   padding-top: 43px;
 }
 
+.navigation_footer {
+  padding-top: 0;
+}
+
 .navigation__list {
   display: flex;
   gap: 32px;
+}
+
+.navigation__list_footer{
+  flex-direction: column;
+  gap: 0;
+  align-items: start;
+  list-style: none;
 }
 
 .navigation__link {

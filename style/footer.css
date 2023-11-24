@@ -1,0 +1,18 @@
+.footer {
+  margin-top: 180px;
+  margin-bottom: 90px;
+  padding: 0 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer__social-list{
+  list-style: none;
+  display: flex;
+  gap: 48px;
+  align-items: start;
+}
+
+.footer__social-list-item{
+  width: 48px;
+}
